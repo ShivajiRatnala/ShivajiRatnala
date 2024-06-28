@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ratnalashivaji" target="blank"><img src="https://img.shields.io/twitter/follow/ratnalashivaji?logo=twitter&style=for-the-badge" alt="ratnalashivaji" /></a> <img align = 'right' height = '250' width = '500' src = 'https://static.wixstatic.com/media/c7f13e_eca8b5e5b362419ba44efe48d2b36535~mv2.gif'></p>
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **power bi**
 
