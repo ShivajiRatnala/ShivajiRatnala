@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ratnala Shivaji</h1>
+<h1 align="center">Hi 👋, I'm Shivaji Ratnala </h1>
 <h3 align="center">I am a passionate and detail-oriented Data Analyst with a strong foundation in Power BI, Excel, SQL, and Python. I specialize in transforming raw data into meaningful insights that support data-driven and informed decision-making. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivajiratnala&label=Profile%20views&color=0e75b6&style=flat" alt="shivajiratnala" /> </p>
